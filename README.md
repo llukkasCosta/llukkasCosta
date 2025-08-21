@@ -1,5 +1,5 @@
 - 👋 Eai, @llukkasCosta aqui!
-- ⚡ Fun fact: Eu sou viciado em Minecraft
+- ⚡ Um dia sonho em ser desenvolvedor de jogos
 - 🙃 Aqui vou postar todos os projetos que estou desenvolvendo ou aprendendo, seja na escola ou próprio
 
 <!---
